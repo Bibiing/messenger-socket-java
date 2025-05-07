@@ -9,7 +9,7 @@ This is a real-time, multi-user messaging application built in Java, featuring a
 The application consists of three main components:
 
 1. **Server (Server.java)**: Manages client connections, message routing, and system logging
-2. ** Client Handler (ClientHandler.java)**: Manages individual client connections and message processing
+2. **Client Handler (ClientHandler.java)**: Manages individual client connections and message processing
 3. **Client (Client.java)**: Provides the user interface for sending and receiving messages
 
 ## Key Features
